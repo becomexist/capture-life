@@ -1,0 +1,16 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  {% include head.html %}
+  <body>
+
+    {% include header.html %}
+    <div id="main">
+      {{ content }}
+    </div>
+    <script src="/js/foundation.min.js"></script>
+    <script src="/js/custom.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+  </body>
+</html>

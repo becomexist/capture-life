@@ -1,0 +1,81 @@
+// Remove background and borders from top-bar and title section
+.callout.primary, .top-bar {
+  background-color: transparent !important;
+  border: none;
+}
+
+//Top bar width
+.top-bar {
+  margin: auto;
+  max-width: 1280px;
+}
+
+// Take Action Button
+.take-action {
+  border-radius: 300px;
+  border: 2px solid white;
+}
+
+// Banner typography
+.page-title {
+  color: white;
+  font-family: Montserrat;
+  font-weight: 700;
+  font-size: 4rem;
+  text-transform: uppercase;
+}
+
+// Responsive Header
+@media all and (max-width: 640px) {
+  .header-wrapper {
+    background-position: center top !important;
+  }
+  .page-title {
+    margin-top: 42px;
+  }
+  .menu.main-menu {
+    position: fixed;
+    top: -10px;
+    right: 10px;
+  }
+  .top-bar ul.main-menu {
+    text-align: right;
+  }
+  .main-menu.menu > li {
+    display: block
+  }
+  .main-menu.menu li.take-action-item {
+    margin-top: 18px;
+  }
+  .main-menu.menu li a.take-action {
+    display: inline;
+  }
+  .callout.large {
+    margin-top: 3rem;
+    padding-top: 0 !important;
+  }
+}
+
+// Brand
+.brand-wrapper {
+  margin-left: 10px;
+}
+
+h2.subheader {
+  color: white;
+  font-family: 'EB Garamond';
+  display: block;
+  font-size: 1.4rem;
+}
+
+// Main Menu
+.top-bar ul.main-menu {
+  margin-top: 21px;
+  margin-right: 10px;
+  background: transparent;
+  font-family: Montserrat;
+  text-transform: uppercase;
+  li a {
+    color: white;
+  }
+}

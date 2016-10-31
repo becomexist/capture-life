@@ -1,0 +1,27 @@
+body {
+  p {
+  font-size: 18px;
+  }
+  h1,h2,h3,h4,h5,h6 {
+    font-family: $header-font-family;
+  }
+}
+
+.text-shadow {
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.4),
+}
+
+h1.brand {
+  font-size: 2rem;
+  color: white;
+  font-family: $body-font-family;
+  text-transform: none;
+  margin-bottom: 0;
+  border-bottom: 1px solid;
+  display: inline;
+  padding-bottom: 5px;
+}
+
+h1.brand.dark-brand, h2.subheader.dark-brand {
+  color: red;
+}
