@@ -25,3 +25,29 @@ h1.brand {
 h1.brand.dark-brand, h2.subheader.dark-brand {
   color: red;
 }
+
+// Intro text Paragraph
+p.intro-text {
+  font-size: 30px;
+  text-align: center;
+  color: black;
+}
+
+// Homepage subheader
+h3.subheader.home {
+  font-size: 2rem;
+  color: white;
+  font-family: 'EB Garamond';
+}
+
+// Footer & Copyright
+footer > p.text-center {
+  color: $grazina-green;
+}
+
+// Reduce h2 size on Medium
+// @media screen and (min-width: 40em) {
+//   h2.text-center {
+//       font-size: 1.4rem;
+//   }
+// }

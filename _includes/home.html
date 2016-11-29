@@ -1,4 +1,4 @@
-<div class="header-wrapper {{ page.title | downcase | split: " " | join: "-" }}-banner" style="background-image: url('{{ page.banner }}'); background-position: center -100px; background-repeat: no-repeat;">
+<div class="header-wrapper {{ page.title | downcase | split: " " | join: "-" }}-banner" style="min-height: 100%; background-image: url('{{ page.banner }}'); background-position: center; background-size: cover; background-repeat: no-repeat;">
   <!-- Start Top Bar -->
   <div class="top-bar">
     <a href="/">
@@ -17,6 +17,7 @@
   <div class="callout large primary">
     <div class="row column text-center">
       <h2 class="page-title">{{ page.title }}</h2>
+      <h3 class="subheader home">The Thin Line</h3>
     </div>
   </div>
 </div>
