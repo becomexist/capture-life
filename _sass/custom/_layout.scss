@@ -14,3 +14,9 @@ section#donations, section#about-page {
 .thumbnail {
 	box-shadow: none !important;
 }
+
+.container.blog-container {
+	ul {
+		margin-left: 0;
+	}
+}
