@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Grazina Zizaite
+author: Danny Dawson, Freelance writer
 banner: assets/images/banners/wrapped-babies.jpg
 featured_image: assets/images/blog1.jpg
 ---
