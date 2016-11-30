@@ -1,11 +1,14 @@
 ---
 layout: post
-title: Birthing a New World
-banner: /assets/images/banners/colour-baby.jpg
+author: Grazina Zizaite
+banner: /assets/images/banners/wrapped-babies.jpg
 featured_image: /assets/images/blog1.jpg
 ---
 
 My Dad used to say to me that at the core of every human, there lies nothing more than a self interested, self maximising, greedy beast. He believed that this is the insurmountable inner mountain, firmed in the landscape of our DNA from a time when our primal lives were ‘nasty, brutish and short’, that is the Vesuvian font of all of the suffering in the world. An immobilising and hope-sapping story indeed.
+
+banner: /assets/images/banners/colour-baby.jpg
+
 
 This logical trail is traversed commonly in the modern world, and has wound its way around, to a greater or lesser extent, the collective unconscious of Western culture. The ideas seeded by Darwin and Descartes of a competitive, individualist race for survival, have rooted into every aspect of our society; from familial relationships to politics, food production and commerce.
 

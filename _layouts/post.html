@@ -1,33 +1,34 @@
 ---
-layout: page
+layout: default
+title: Blog
 ---
-<div class="row" id="content">
-  <div class="medium-8 columns">
-    <div class="blog-post">
-      <h3>{{ page.title }} <small>{{ page.date | date: "%B %d %Y" }}</small></h3>
-      <img class="thumbnail" src="{{ page.featured_image }}">
-      <p>{{ content }}</p>
-      <div class="callout">
-        <ul class="menu simple">
-          <li><a href="#">Author: Grazina Zizaite</a></li>
-        </ul>
+{% include blog_header.html %}
+<div id="main">
+  <div class="row" id="content">
+    <div class="medium-8 columns">
+      <div class="blog-post">
+        <h3>{{ page.title }}</h3>
+        <img class="thumbnail" src="{{ base }}{{ page.featured_image }}">
+        <h6>{{ page.author }}, {{ page.date | date: "%B %d %Y" }}</h6>
+        <p>{{ content }}</p>
+        <p>{{ page.author }}</p>
       </div>
     </div>
-  </div>
-  <div class="medium-3 columns" data-sticky-container>
-    <div class="sticky" data-sticky data-anchor="content">
-      <h4>Sidebar</h4>
-      <ul>
-        <li><a href="#">Skyler</a></li>
-        <li><a href="#">Jesse</a></li>
-        <li><a href="#">Mike</a></li>
-        <li><a href="#">Holly</a></li>
-      </ul>
+    <div class="medium-3 columns" data-sticky-container>
+      <div class="sticky" data-sticky data-anchor="content">
+        <h4>Sidebar</h4>
+        <ul>
+          <li><a href="#">Skyler</a></li>
+          <li><a href="#">Jesse</a></li>
+          <li><a href="#">Mike</a></li>
+          <li><a href="#">Holly</a></li>
+        </ul>
 
-      <h4>Donate</h4>
-      <ul>
-        <li><a href="#">Click here to make a donation</a></li>
-      </ul>
+        <h4>Donate</h4>
+        <ul>
+          <li><a href="#">Click here to make a donation</a></li>
+        </ul>
+      </div>
     </div>
   </div>
 </div>

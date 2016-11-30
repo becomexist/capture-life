@@ -5,11 +5,12 @@ banner: /assets/images/banners/wrapped-babies.jpg
 ---
 <section>
   <div class="container">
-    <div class="row">
+    <div class="row small-12 medium-8 large-7 columns">
       <div class="text-center">
         <ul style="list-style-position: inside">
            {% for post in site.posts %}
-             <a href="{{ post.url }}"><h6>{{ post.title }} - {{ post.date | date: "%d %B %Y" }}</h6></a>
+             <a href=".{{ post.url }}"><h4>{{ post.title }}</h4></a>
+             <p>{{ post.date | date: "%d %B %Y" }}</p>
              <img class="thumbnail" src="{{ post.featured_image }}">
            {% endfor %}
         </ul>

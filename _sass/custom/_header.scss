@@ -14,7 +14,11 @@
 .take-action {
   border-radius: 300px;
   border: 2px solid white;
+  -webkit-transition: color 0.5s, background-color 0.5s; /* Safari */
+  transition: color 0.5s, background-color 0.5s;
   &:hover, &:focus, &:active {
+    -webkit-transition: color 0.5s, background-color 0.5s; /* Safari */
+    transition: color 0.5s, background-color 0.5s;
     color: $grazina-green !important;
     background-color: white;
     text-shadow: none !important;
@@ -57,7 +61,13 @@
   }
   .callout.large {
     margin-top: 3rem;
-    padding-top: 0 !important;
+    padding-top: o !important;
+  }
+}
+
+@media all and (min-width: 641px) {
+  .callout.home-callout.large.primary {
+    margin-top: 42px;
   }
 }
 

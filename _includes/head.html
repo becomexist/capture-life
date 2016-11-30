@@ -1,7 +1,8 @@
 <head>
+	{% include base.html %}
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Capture Life | {{ page.title }}</title>
-  <script type="text/javascript" src="/js/jquery-3.1.1.min.js"></script>
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <script type="text/javascript" src="./js/jquery-3.1.1.min.js"></script>
+  <link rel="stylesheet" href="{{ "{{base}}/css/main.css" | prepend: site.baseurl }}">
 </head>
