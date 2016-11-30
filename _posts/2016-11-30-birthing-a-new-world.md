@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Birthing a new world
+title: Birthing a New World
+banner: /assets/images/banners/colour-baby.jpg
+featured_image: /assets/images/blog1.jpg
 ---
 
 My Dad used to say to me that at the core of every human, there lies nothing more than a self interested, self maximising, greedy beast. He believed that this is the insurmountable inner mountain, firmed in the landscape of our DNA from a time when our primal lives were ‘nasty, brutish and short’, that is the Vesuvian font of all of the suffering in the world. An immobilising and hope-sapping story indeed.
