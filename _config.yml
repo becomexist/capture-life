@@ -17,7 +17,7 @@ title: Capture Life
 email: dino@oat-bot.com
 description: > # this means to ignore newlines until "baseurl:"
   Capture Life is a project created by photographer Grazina Zizaite to support and raise awareness about the work of the natural birth and healthcare centre, Bumi Sehat in Bali.
-baseurl: "/capture-life" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
