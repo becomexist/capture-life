@@ -9,9 +9,11 @@ banner: assets/images/banners/wrapped-babies.jpg
       <div class="text-center">
         <ul style="list-style-position: inside">
            {% for post in site.posts %}
-             <a href=".{{ post.url }}"><h4>{{ post.title }}</h4></a>
-             <p>{{ post.date | date: "%d %B %Y" }}</p>
-             <img class="thumbnail" src="{{ post.featured_image }}">
+             <div class="post">
+               <a href=".{{ post.url }}"><h4>{{ post.title }}</h4>
+               <p>{{ post.date | date: "%d %B %Y" }}</p>
+               <img class="thumbnail" src="{{ post.featured_image }}"></a>
+             </div>
            {% endfor %}
         </ul>
       </div>

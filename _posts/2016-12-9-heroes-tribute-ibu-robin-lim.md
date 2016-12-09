@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Grazina Zizaite
+title: Heroes Tribute&#58; Ibu Robin Lim
 banner: assets/images/banners/wrapped-babies.jpg
 featured_image: assets/images/Robin-Lim-profile.jpg
 ---
@@ -11,7 +12,7 @@ As Robin stated upon accepting her award, "every baby's first breath on Earth co
 
 Please watch the video below, where Christy Turlington Burns, introduces 2011 Top 10 CNN Hero Robin Lim at "CNN Heroes: An All-Star Tribute.”
 
-https://www.youtube.com/watch?v=RLtpPXqG6W8
+<a href="https://www.youtube.com/watch?v=RLtpPXqG6W8" target="_blank">https://www.youtube.com/watch?v=RLtpPXqG6W8</a>
 
 The CNN Super Hero Special airing is on Friday, Dec. 9 CNN/US and CNN INTERNATIONAL: Friday, December 9 at 10pm ET That is Dec 10 at 11 am in Bali, Indonesia and the Philippines. 10 am in Jakarta, Java and 4am in Europe. I hope you will be happy to see, what Bumi Sehat is up to.
 
