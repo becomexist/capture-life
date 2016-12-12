@@ -41,14 +41,7 @@ h3.subheader.home {
   font-family: 'EB Garamond';
 }
 
-// Footer & Copyright
-footer > p.text-center {
-  color: $grazina-green;
+// Links colour
+p a, p a:hover {
+  color: $grazina-green !important;
 }
-
-// Reduce h2 size on Medium
-// @media screen and (min-width: 40em) {
-//   h2.text-center {
-//       font-size: 1.4rem;
-//   }
-// }
