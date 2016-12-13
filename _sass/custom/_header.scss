@@ -74,11 +74,8 @@
 
 // Zoomed in Background on mobile
 @media all and (max-width: 768px) {
-  .header-wrapper {
+  .page.header-wrapper, .blog.header-wrapper {
     background-size: 200% !important;
-  }
-  .home.header-wrapper {
-    background-size: cover !important;
   }
 }
 
