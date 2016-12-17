@@ -6,9 +6,15 @@ section#donations, section#about-page {
 	margin-bottom: 40px;
 }
 
-#main h2 {
+#main {
+	h2 {
 	margin-bottom: 2rem !important;
 	margin-top: 2rem !important;
+	}
+	h3, h4, h5, h6 {
+		margin-bottom: 1.2rem !important;
+		margin-top: 1.2rem !important;
+	}
 }
 
 .thumbnail {
