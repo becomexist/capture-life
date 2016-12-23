@@ -1,7 +1,8 @@
 ---
+title: Heroes Tribute&#58; Ibu Robin Lim
+date: 2016-12-09 00:00:00 Z
 layout: post
 author: Grazina Zizaite
-title: Heroes Tribute&#58; Ibu Robin Lim
 banner: assets/images/banners/wrapped-babies.jpg
 featured_image: assets/images/Robin-Lim-profile.jpg
 ---

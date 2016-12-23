@@ -1,7 +1,8 @@
 ---
+title: Birth&#58; Natural &#124; Water &#124; Ecstatic &#124; Lotus
+date: 2016-12-17 00:00:00 Z
 layout: post
 author: Kasia Slazak (SmileySoul.co.uk)
-title: Birth&#58; Natural &#124; Water &#124; Ecstatic &#124; Lotus
 banner: assets/images/banners/wrapped-babies.jpg
 featured_image: assets/images/Birth-Placenta-BW3-sm.jpg
 ---

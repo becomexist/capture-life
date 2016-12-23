@@ -1,4 +1,6 @@
 ---
+title: Birthing A New World
+date: 2016-11-30 00:00:00 Z
 layout: post
 author: Danny Dawson, Freelance writer
 banner: assets/images/banners/wrapped-babies.jpg

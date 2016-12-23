@@ -1,4 +1,6 @@
 ---
+title: Natural Birth Experience Mesi Story
+date: 2016-12-22 00:00:00 Z
 layout: post
 author: Mesi Toth
 banner: assets/images/banners/wrapped-babies.jpg
