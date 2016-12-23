@@ -4,7 +4,7 @@ date: 2016-12-17 00:00:00 Z
 layout: post
 author: Kasia Slazak (SmileySoul.co.uk)
 banner: assets/images/banners/wrapped-babies.jpg
-featured_image: assets/images/Birth-Placenta-BW3-sm.jpg
+featured_image: /assets/images/Birth-Placenta-BW3-sm.jpg
 ---
 
 #### Natural Birth
