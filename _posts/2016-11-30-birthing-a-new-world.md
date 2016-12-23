@@ -4,7 +4,7 @@ date: 2016-11-30 00:00:00 Z
 layout: post
 author: Danny Dawson, Freelance writer
 banner: assets/images/banners/wrapped-babies.jpg
-featured_image: /assets/images/blog1.jpg
+featured_image: "/assets/images/blog1.jpg"
 ---
 
 My Dad used to say to me that at the core of every human, there lies nothing more than a self interested, self maximising, greedy beast. He believed that this is the insurmountable inner mountain, firmed in the landscape of our DNA from a time when our primal lives were ‘nasty, brutish and short’, that is the Vesuvian font of all of the suffering in the world. An immobilising and hope-sapping story indeed.
