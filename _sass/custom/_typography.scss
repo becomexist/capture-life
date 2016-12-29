@@ -42,6 +42,6 @@ h3.subheader.home {
 }
 
 // Links colour
-p a, p a:hover {
+.post a, post a:hover, p a, p a:hover {
   color: $grazina-green !important;
 }
