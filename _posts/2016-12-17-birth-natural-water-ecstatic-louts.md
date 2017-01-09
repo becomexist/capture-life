@@ -5,7 +5,9 @@ layout: post
 author: Kasia Slazak (SmileySoul.co.uk)
 banner: assets/images/banners/wrapped-babies.jpg
 featured_image: "/assets/images/Birth-Placenta-BW3-sm.jpg"
-meta_content: Have you heard about various types of births? Natural birth, home birth, water birth, ecstatic birth? If so, I wonder what kind of thoughts come to your mind?
+meta_content: Have you heard about various types of births? Natural birth, home birth,
+  water birth, ecstatic birth? If so, I wonder what kind of thoughts come to your
+  mind?
 ---
 
 #### Natural Birth
