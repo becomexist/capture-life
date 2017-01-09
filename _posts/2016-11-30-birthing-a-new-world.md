@@ -5,6 +5,7 @@ layout: post
 author: Danny Dawson, Freelance writer
 banner: assets/images/banners/wrapped-babies.jpg
 featured_image: "/assets/images/blog1.jpg"
+featured_alt: Danny Dawson with Emily and son Solomon
 meta_content: I imagine a world in which all humans are born with an intact capacity to love, and I am willing to devote my life to making it happen.
 ---
 

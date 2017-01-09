@@ -12,8 +12,12 @@ facebook_image: true
         <h3>{{ page.title }}</h3>
         <img class="thumbnail" src="{{ site.baseurl }}{{ page.featured_image }}">
         <h6>{{ page.author }}, {{ page.date | date: "%B %d %Y" }}</h6>
+        <!-- Go to www.addthis.com/dashboard to customize your tools -->
+        <div class="addthis_inline_share_toolbox"></div>
         <p>{{ content }}</p>
         <p>{{ page.author }}</p>
+        <!-- Go to www.addthis.com/dashboard to customize your tools -->
+        <div style="margin-bottom: 20px" class="addthis_inline_share_toolbox"></div>
       </div>
     </div>
     <div class="sidebar medium-3 columns" data-sticky-container>

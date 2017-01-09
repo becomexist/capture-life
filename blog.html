@@ -14,7 +14,7 @@ meta_content: Articles and Accounts of Home Birth for Capture Life, a project to
              <div class="post">
                <a href=".{{ post.url }}"><h4>{{ post.title }}</h4>
                <p>{{ post.date | date: "%d %B %Y" }}</p>
-               <img class="thumbnail" src="{{ post.featured_image }}"></a>
+               <img class="thumbnail" src="{{ post.featured_image }}" alt="{{ post.featured_alt }}"></a>
              </div>
            {% endfor %}
         </ul>
