@@ -5,6 +5,7 @@ author: Mesi Toth
 banner: assets/images/banners/wrapped-babies.jpg
 featured_image: "/uploads/mesi-fam.jpg"
 layout: post
+meta_content: Read about Mesi and Brad experience welcoming their daughter Tulsi to the world.
 ---
 
 *I met Mesi and Brad in 2012 during the retreat in the Buddhist monastery, Nepal. Then few year later they moved to Bali, where I lived at the moment. This beautiful conscious family chose home birth with Bumi Sehat, natural birth centre in Bali, for their first child and had an amazing experience. After this experience, Mesi felt the calling to join the group of woman to become a doula herself.*
