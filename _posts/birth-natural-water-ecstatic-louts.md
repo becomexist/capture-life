@@ -1,18 +1,5 @@
 ---
-title: Birth&#58; Natural &#124; Water &#124; Ecstatic &#124; Lotus
-date: 2016-12-17 00:00:00 Z
-layout: post
-author: Kasia Slazak (SmileySoul.co.uk)
-banner: assets/images/banners/wrapped-babies.jpg
-featured_image: "/assets/images/Birth-Placenta-BW3-sm.jpg"
-<<<<<<< HEAD
-featured_alt: Newborn with Placenta
-meta_content: Have you heard about various types of births? Natural birth, home birth, water birth, ecstatic birth? If so, I wonder what kind of thoughts come to your mind?
-=======
-meta_content: Have you heard about various types of births? Natural birth, home birth,
-  water birth, ecstatic birth? If so, I wonder what kind of thoughts come to your
-  mind?
->>>>>>> de1095a0291ccdc9ff9603a4ef1b458bb2467922
+title: 2016 12 17 Birth Natural Water Ecstatic Louts
 ---
 
 #### Natural Birth

@@ -1,19 +1,5 @@
 ---
-title: Heroes Tribute&#58; Ibu Robin Lim
-date: 2016-12-09 00:00:00 Z
-layout: post
-author: Grazina Zizaite
-banner: assets/images/banners/wrapped-babies.jpg
-featured_image: "/assets/images/Robin-Lim-profile.jpg"
-<<<<<<< HEAD
-featured_alt: Headshot of Robin Lim
-meta_content: Ibu Robin Lim is an extraordinary woman doing extraordinary things for families. In 2011, she was nominated for CNN Hero Awards, together with another nine nominees showing the example of selfless services for the amazing work she does around the world.
-=======
-meta_content: Ibu Robin Lim is an extraordinary woman doing extraordinary things for
-  families. In 2011, she was nominated for CNN Hero Awards, together with another
-  nine nominees showing the example of selfless services for the amazing work she
-  does around the world.
->>>>>>> de1095a0291ccdc9ff9603a4ef1b458bb2467922
+title: 2016 12 09 2016 12 9 Heroes Tribute Ibu Robin Lim
 ---
 
 Ibu Robin Lim is an extraordinary woman doing extraordinary things for families. In 2011, she was nominated for CNN Hero Awards, together with another nine nominees showing the example of selfless services for the amazing work she does around the world. Now after 5 years CNN Heroes, has filmed again at Bumi Sehat to catch up with Ibu Robin and others doing phenomenal work to reduce suffering. 

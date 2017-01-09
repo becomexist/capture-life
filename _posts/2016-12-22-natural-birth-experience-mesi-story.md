@@ -4,7 +4,7 @@ date: 2016-12-22 00:00:00 Z
 author: Mesi Toth
 banner: assets/images/banners/wrapped-babies.jpg
 featured_image: "/uploads/mesi-fam.jpg"
-featured_alt: Brad & Mesi Toth with their daughter Tulsi 
+featured_alt: Brad & Mesi Toth with their daughter Tulsi
 layout: post
 meta_content: Read about Mesi and Brad experience welcoming their daughter Tulsi to
   the world.
