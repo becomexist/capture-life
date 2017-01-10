@@ -10,7 +10,7 @@ collections:
     output: true
 defaults:
 - scope:
-    path: posts
+    path: ''
     type: posts
   values:
     layout: post
