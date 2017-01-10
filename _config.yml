@@ -13,8 +13,8 @@ defaults:
     path: posts
     type: posts
   values:
-    layout: "post"
-    author: "Capture Life"
+    layout: post
+    author: Capture Life
 email: grazina@zizaite.com
 description: Capture Life is a project created by photographer Grazina Zizaite to
   support and raise awareness about the work of the natural birth and healthcare centre,
