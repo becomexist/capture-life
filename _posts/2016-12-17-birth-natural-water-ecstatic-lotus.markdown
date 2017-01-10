@@ -1,22 +1,21 @@
 ---
-title: Birth&#58; Natural &#124; Water &#124; Ecstatic &#124; Lotus
-date: 2016-12-17 00:00:00 Z
-layout: post
-author: Kasia Slazak (SmileySoul.co.uk)
-banner: assets/images/banners/wrapped-babies.jpg
-featured_image: "/assets/images/Birth-Placenta-BW3-sm.jpg"
+title: 'Birth: Natural | Water | Ecstatic | Lotus'
+date: 2016-12-17 12:15:00 Z
+author: Kasia Slazak (smileysoul.co.uk)
+meta_content: Have you heard about various types of births? Natural birth, home birth,
+  water birth, ecstatic birth? If so, I wonder what kind of thoughts come to your
+  mind? What does natural birth mean nowadays?
+featured_image: "/uploads/Birth-Placenta-BW3-sm.jpg"
 featured_alt: Newborn with Placenta
-meta_content: Have you heard about various types of births? Natural birth, home birth, water birth, ecstatic birth? If so, I wonder what kind of thoughts come to your mind?
-meta_content: Have you heard about various types of births? Natural birth, home birth, water birth, ecstatic birth? If so, I wonder what kind of thoughts come to your mind?
 ---
 
-#### Natural Birth
+## Natural Birth
 
 Have you heard about various types of births? Natural birth, home birth, water birth, ecstatic birth? If so, I wonder what kind of thoughts come to your mind? What does natural birth mean nowadays? Does it mean giving birth without the assistance of a midwife or doctor?
 
 There are women and couples who decide to give birth without the support of medical personnel, by themselves or accompanied by their friends or family members and this is when we talk about free birth or unassisted birth.
 
-Natural birth means that there are no medical interventions, i.e.: inducing, breaking the waters, no pain relief medications. The whole birth simply happens by itself – as Mother Nature intended. Natural birth is not about 'Where', even though a great deal of research confirms that home birth significantly increases chances for a natural birth. Why? First of all because feeling safe plays a crucial role in labour and where else can we feel safer than at home, sweet home. Our mind, however, might be saying – hospital, but is it certain? A hospital is for treating ill people and if the pregnancy is developing correctly then surely it isn't an illness. Hospitals are usually busy places, which again, isn't very conducive for the intimacy of the labour. There's also medical equipment, a reminder that something might go wrong.
+Natural birth means that there are no medical interventions, i.e. inducing, breaking the waters, no pain relief medications. The whole birth simply happens by itself – as Mother Nature intended. Natural birth is not about 'Where', even though a great deal of research confirms that home birth significantly increases chances for a natural birth. Why? First of all because feeling safe plays a crucial role in labour and where else can we feel safer than at home, sweet home. Our mind, however, might be saying – hospital, but is it certain? A hospital is for treating ill people and if the pregnancy is developing correctly then surely it isn't an illness. Hospitals are usually busy places, which again, isn't very conducive for the intimacy of the labour. There's also medical equipment, a reminder that something might go wrong.
 
 One of the most important aspects of hospital birth, in my opinion, is that we put ourselves in the role of a patient handing over our power to medical personnel. Often we dismiss our own intuition and inner power relying on decisions of experts in the field.
 
@@ -28,11 +27,11 @@ She can also feel when things aren't going smoothly and when is the right time t
 
 What can we do to make birth easier? The more a woman can trust herself, her own body, the birthing process and life in general the greater chance she stands for a beautiful and gentle birth. What if she doesn't have that trust? There are methods and processes that help in building/rebuilding that trust.
 
-#### Water Birth
+### Water Birth
 
 Water is a natural environment for the foetus so being born in a pool must feel very natural. Supporters of water birth claim that it is a much gentler transformation for a baby comparing with a non-water birth. It can also bring a relief to the labouring woman, helping her to relax which again may have a positive impact on the labour and can even accelerate the whole process.
 
-#### Ecstatic Birth
+### Ecstatic Birth
 
 Giving Birth Doesn't Have to be Painful.
 
@@ -42,11 +41,9 @@ How does it affect each of us? Usually, it creates a conception of how difficult
 
 And it can be. Some of us (according to some statistics around 30%), experience orgasms during labour; and often women say, that it was something much more than an orgasm. They talk about an absolute ecstasy. This type of experience is possible only in natural birth when a spontaneous flow of hormones is not interrupted by the application of synthetic hormones or pain relief medication.
 
-Giving birth this way can be very empowering for the woman. You might be asking yourself – what needs to be done in order to be able to have orgasmic birth? 
+Giving birth this way can be very empowering for the woman. You might be asking yourself – what needs to be done in order to be able to have orgasmic birth? First of all, you need to open yourself up to such a possibility and first things first. Your relationship with yourself, then with your partner, your family so that nothing arises to disturb you when it's time to be fully present following mother's nature call. It's also important to befriend your own body, be at ease with your sexuality and rebuild the trust in Mother Nature’s wisdom.
 
-First of all, you need to open yourself up to such a possibility and first things first. Your relationship with yourself, then with your partner, your family so that nothing arises to disturb you when it's time to be fully present following mother's nature call. It's also important to befriend your own body, be at ease with your sexuality and rebuild the trust in Mother Nature’s wisdom.
-
-#### Lotus Birth
+### Lotus Birth
 
 In lotus birth, the umbilical cord does not get cut once the baby has been born. Instead, it is allowed to dry out and fall off itself. The baby stays connected to its placenta until then and it usually takes 3 to 8 days.
 

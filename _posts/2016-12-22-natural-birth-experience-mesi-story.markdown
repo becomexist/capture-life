@@ -1,17 +1,18 @@
 ---
-title: Natural Birth Experience Mesi Story
-date: 2016-12-22 00:00:00 Z
+title: 'Natural Birth experience: Mesi’s story'
+date: 2016-12-22 12:23:00 Z
 author: Mesi Toth
-banner: assets/images/banners/wrapped-babies.jpg
+meta_content: By the time the midwives and doula arrived, I was already 8.5 cm dilated.
+  I wondered if this expansion happened in the last hour, since I started having contractions,
+  or slowly over the previous few days. I had been feeling “birthy” for 48 hours,
+  somehow floating between the two states of pregnancy and motherhood.
 featured_image: "/uploads/mesi-fam.jpg"
-featured_alt: Brad & Mesi Toth with their daughter Tulsi
-layout: post
-meta_content: Read about Mesi and Brad experience welcoming their daughter Tulsi to the world.
+featured_alt: Mesi Toth with daughter Tulsi and partner Brad
 ---
 
 *I met Mesi and Brad in 2012 during the retreat in the Buddhist monastery, Nepal. Then few year later they moved to Bali, where I lived at the moment. This beautiful conscious family chose home birth with Bumi Sehat, natural birth centre in Bali, for their first child and had an amazing experience. After this experience, Mesi felt the calling to join the group of woman to become a doula herself.*
 
-*Read about Mesi and Brad experience welcoming their daughter Tulsi to the world:*
+*Read about Mesi and Brad experience welcoming their daughter Tulsi to the world — Grazina*
 
 By the time the midwives and doula arrived, I was already 8.5 cm dilated. I wondered if this expansion happened in the last hour, since I started having contractions, or slowly over the previous few days. I had been feeling “birthy” for 48 hours, somehow floating between the two states of pregnancy and motherhood.
 
