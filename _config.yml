@@ -8,20 +8,17 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    author: Capture Life
 email: grazina@zizaite.com
 description: Capture Life is a project created by photographer Grazina Zizaite to
   support and raise awareness about the work of the natural birth and healthcare centre,
   Bumi Sehat in Bali.
-  
-defaults:
-  -
-    scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-      author: Capture Life  
-
 baseurl: ''
 url: ''
 markdown: kramdown
