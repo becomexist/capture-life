@@ -20,4 +20,4 @@ The CNN Super Hero Special airing is on Friday, Dec. 9 CNN/US and CNN INTERNATIO
 
 I will be posting the video as soon as it will become available.
 
-Love, Grazina
+Love
