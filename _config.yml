@@ -15,6 +15,10 @@ defaults:
   values:
     layout: post
     author: Capture Life
+    meta_content:
+    featured_image:
+    featured_alt:
+    banner: assets/images/banners/wrapped-babies.jpg
 email: grazina@zizaite.com
 description: Capture Life is a project created by photographer Grazina Zizaite to
   support and raise awareness about the work of the natural birth and healthcare centre,
