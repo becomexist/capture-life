@@ -45,3 +45,18 @@ h3.subheader.home {
 .post a, post a:hover, p a, p a:hover {
   color: $grazina-green !important;
 }
+
+// Body buttons
+.body-button-holder {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+#take-action.body-button {
+  border-radius: 300px;
+  border: 3px solid;
+  padding: 10px;
+  text-transform: uppercase;
+  color: $grazina-green;
+  font-family: Montserrat;
+}
