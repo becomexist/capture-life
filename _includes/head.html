@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
   <link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/favicon.ico" />
   <meta name="description" content="{{ page.meta_content }}">
-  {% if page.featured_image %}
+  {% if layout == post %}
 		<meta property="og:image" content="{{ site.baseurl }}{{ page.featured_image }}">
   {% else %}
   	<meta property="og:image" content="https://capturelife.co/assets/images/banners/colour-baby.jpg">
