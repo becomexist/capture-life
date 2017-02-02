@@ -33,6 +33,7 @@ section#donations, section#about-page {
 
 .home.scrolled {
 	height: 50% !important;
+	min-height: 300px;
 	background-position: center -100px !important;
 	margin-bottom: 40px;
 	transition: background-position 1s ease, height 1s ease, margin-bottom 1s ease;
