@@ -74,7 +74,7 @@
 
 // Zoomed in Background on mobile
 @media all and (max-width: 768px) {
-  .page.header-wrapper, .blog.header-wrapper {
+  .page.header-wrapper, .blog.header-wrapper, .home.header-wrapper.scrolled {
     background-size: 200% !important;
   }
 }

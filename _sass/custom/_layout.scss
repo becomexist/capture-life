@@ -30,3 +30,26 @@ section#donations, section#about-page {
 .post {
 	margin-bottom: 40px;
 }
+
+.home.scrolled {
+	height: 50% !important;
+	background-position: center -100px !important;
+	margin-bottom: 40px;
+	transition: background-position 1s ease, height 1s ease, margin-bottom 1s ease;
+}
+
+.callout.home-callout.scrolled {
+	margin-top: 0 !important;
+	transition: margin-top 1s ease;
+}
+
+.site-title.scrolled {
+	opacity: 0;
+	height: 0;
+	transition: opacity 1s ease, height 1s ease;
+}
+
+.about-title.scrolled {
+	opacity: 1 !important;
+	transition: opacity 1s ease;
+}

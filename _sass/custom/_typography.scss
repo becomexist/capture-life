@@ -1,6 +1,7 @@
 body {
   p {
-  font-size: 18px;
+  font-size: 20px;
+  line-height: 1.8;
   }
   h1,h2,h3,h4,h5,h6 {
     font-family: $header-font-family;
@@ -52,7 +53,7 @@ h3.subheader.home {
   margin-bottom: 40px;
 }
 
-#take-action.body-button {
+#read-blog.body-button, #take-action.body-button {
   border-radius: 300px;
   border: 3px solid;
   padding: 10px;
