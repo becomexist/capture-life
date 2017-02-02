@@ -10,7 +10,7 @@ featured_image: "/uploads/001.jpg"
 featured_alt: 5 reasons to choose water birth
 ---
 
-Source: [http://intentionalbygrace.com/(http://intentionalbygrace.com/)
+Source: [http://intentionalbygrace.com/](http://intentionalbygrace.com/)
 
 ##### Reduce the pain of contractions.
 
@@ -34,4 +34,4 @@ A little one has been floating in warm water for nine months. Moving from the bi
 
 Have you experienced a water birth? Share your story with me!
 
-Source: [http://intentionalbygrace.com/(http://intentionalbygrace.com/)
+Source: [http://intentionalbygrace.com/](http://intentionalbygrace.com/)
