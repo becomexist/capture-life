@@ -14,7 +14,7 @@ Laboring and delivering a baby without the intervention of pain medication can b
 
 Below is a list of 25 celebrity mums who also know the myriad of emotions associated with giving birth au naturel.
 
-1. Duchess of Cambridge – After 11 hours of labor, and in the company of 4 Midwives and 2 Medics, the Duchess and Prince William welcomed their first child, Prince George, at St. Mary’s Hospital.  
+1.Duchess of Cambridge – After 11 hours of labor, and in the company of 4 Midwives and 2 Medics, the Duchess and Prince William welcomed their first child, Prince George, at St. Mary’s Hospital.  
 
 2.Pamela Anderson – The former, Baywatch-babe chose a home, water birth for sons, Dylan and Brandon.
 
