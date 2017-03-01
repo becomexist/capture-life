@@ -10,7 +10,7 @@ featured_image: "/uploads/DSC_3089-bw%20(1).jpg"
 featured_alt: 25 celebrities having natural home birth
 ---
 
-*Laboring and delivering a baby without the intervention of pain medication can be a beautiful, natural, occurrence for mothers, but it also comes with its share of challenges. The natural birthing process is the joys and the pains that come with the toil of labor, and the triumph of, medication-free, delivery.*
+Laboring and delivering a baby without the intervention of pain medication can be a beautiful, natural, occurrence for mothers, but it also comes with its share of challenges. The natural birthing process is the joys and the pains that come with the toil of labor, and the triumph of, medication-free, delivery.
 
 Below is a list of 25 celebrity mums who also know the myriad of emotions associated with giving birth au naturel.
 
